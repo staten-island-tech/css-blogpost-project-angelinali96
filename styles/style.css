@@ -23,6 +23,7 @@ h2{
     padding: 1em;
     background-color: #1a0035;
     margin: auto;
+    margin-top: 1em;
     width: 20em;
     display: block;
     text-align: center;
@@ -31,4 +32,8 @@ h2{
 }
 a{
     color: rgb(213, 255, 255);
+}
+img{
+    width: 18em;
+    height: auto;
 }
